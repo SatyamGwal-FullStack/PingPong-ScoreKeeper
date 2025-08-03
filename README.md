@@ -12,7 +12,7 @@ A simple and fun 2-player score tracking game built using **HTML**, **JavaScript
 Inspired by **Colt Steele** Udemy Web Developer Instructor.
 
 ## 🚀 Live Demo
-🔗 [Click here to play the game](https://yourusername.github.io/your-repo-name)
+🔗 [Click here to play the game](https://satyamgwal-fullstack.github.io/PingPong-ScoreKeeper/)
 
 ## How to use
 1.Clone this repository.
