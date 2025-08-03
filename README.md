@@ -18,3 +18,5 @@ Inspired by **Colt Steele** Udemy Web Developer Instructor.
 1.Clone this repository.
 2.Open index.html in your browser.
 3.Click the player button to increment score. 
+
+## Feel free to give ⭐ if you like the project.
